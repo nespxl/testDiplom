@@ -1,9 +1,19 @@
 .form {
     width: 300px;
     display: flex;
+    align-items: center;
+    justify-content: center;
     flex-direction: column;
 }
 
 .label {
     margin-bottom: 10px;
+}
+
+#main {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
 }
